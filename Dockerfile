@@ -1,4 +1,3 @@
-#FROM mhart/alpine-node:latest
 FROM alpine:3.6
 
 LABEL version="1.0"
